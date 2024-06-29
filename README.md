@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# riscv-pipeline
-=======
 # RISC-V Multistage Pipeline Project
 
 ## Overview
@@ -15,4 +12,3 @@ This project simulates a RISC-V multistage pipeline processor that executes 32-b
 - **Cycle-by-Cycle Output**: Provides state results and register file updates per cycle.
 - **Final Memory State**: Outputs the final state of `dmem` after instruction execution.
 
->>>>>>> 350fabb (Initial Commit)
