@@ -1,4 +1,4 @@
-# RISC-V Multistage Pipeline Project
+# Multistage RISC-V Pipeline Simulation
 
 ## Overview
 
